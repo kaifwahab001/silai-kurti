@@ -1,0 +1,1 @@
+String firebase_collection_user = 'users';
