@@ -47,31 +47,31 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAciNdTVlheU1vwOS2OcgAtTJ-UEGFSZw4',
-    appId: '1:713870192251:android:031869e664bd64e699fcde',
-    messagingSenderId: '713870192251',
-    projectId: 'practise-1b628',
-    storageBucket: 'practise-1b628.firebasestorage.app',
+    apiKey: 'your api',
+    appId: 'your api',
+    messagingSenderId: 'your api',
+    projectId: 'your api',
+    storageBucket: 'your api',
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBnQc-GhljTVwFZFiedytWs4mDhsMtCsYM',
-    appId: '1:713870192251:web:130fda0dd4dfb0e999fcde',
-    messagingSenderId: '713870192251',
-    projectId: 'practise-1b628',
-    authDomain: 'practise-1b628.firebaseapp.com',
-    storageBucket: 'practise-1b628.firebasestorage.app',
-    measurementId: 'G-WTYGZNCBLC',
+    apiKey: 'your api',
+    appId: 'your api',
+    messagingSenderId: 'your api',
+    projectId: 'your api',
+    authDomain: 'your api',
+    storageBucket: 'your api',
+    measurementId: 'your api',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAqgCNqVDsFNNY-zaHBnNHh6j16xQYkSh4',
-    appId: '1:713870192251:ios:c27c5286bef3eb6a99fcde',
-    messagingSenderId: '713870192251',
-    projectId: 'practise-1b628',
-    storageBucket: 'practise-1b628.firebasestorage.app',
-    iosClientId: '713870192251-e5ls6khds9t1c4g305jqn8or87drndan.apps.googleusercontent.com',
-    iosBundleId: 'com.example.practise',
+    apiKey: 'your api',
+    appId: 'your api',
+    messagingSenderId: 'your api',
+    projectId: 'your api',
+    storageBucket:'your api',
+    iosClientId: 'your api',
+    iosBundleId:'your api',
   );
 
 }
